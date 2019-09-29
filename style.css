@@ -10,7 +10,7 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
-  font: Helvetica Neue;
+  font-style: "Helvetica Neue"
   background: white;
   padding: 30px;
 }
